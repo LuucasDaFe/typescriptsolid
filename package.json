@@ -1,0 +1,17 @@
+{
+  "name": "typescript_solid",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.0.4",
+    "@types/node": "^18.11.18",
+    "ts-node": "^10.9.1"
+  }
+}
